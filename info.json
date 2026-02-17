@@ -1,0 +1,2902 @@
+{
+    "last_version_available": "1.2.6",
+    "oldest_version_compatible": [
+        "1.2.5"
+    ],
+    "update_url": [
+        "https://play.google.com/store/apps/details?id=com.thales.pokelens&pli=1"
+    ],
+    "ultimo_update": "2026-02-17T01:23:20.529021+00:00",
+    "arquivos": [
+        {
+            "nome": "artists.json",
+            "codigo": "dcd118f1ccf3",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "collections.json",
+            "codigo": "49dd2d3349ab",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "evolutions.json",
+            "codigo": "ea1a6da52e6a",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "moedas.json",
+            "codigo": "d43bfca8052d",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "moedas_pokedex.json",
+            "codigo": "da7584f92b0a",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "moeda_cores.json",
+            "codigo": "eaa1f394ded4",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "moeda_efeito.json",
+            "codigo": "52004464cc98",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "moeda_tamanho.json",
+            "codigo": "a7f64432f9a3",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pk_types.json",
+            "codigo": "11859d3b1383",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pk_types_associations.json",
+            "codigo": "97d075161f71",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokedex.json",
+            "codigo": "92e897788864",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokedex_associations.json",
+            "codigo": "1f32393663a2",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_20th-j.json",
+            "codigo": "a9aba0810938",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_adve-j.json",
+            "codigo": "095e88161114",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_advp-j.json",
+            "codigo": "6163ef2e216e",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_b02-j.json",
+            "codigo": "6db3e27208b2",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_b03-j.json",
+            "codigo": "d4bcbd3eb1a2",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_b04-j.json",
+            "codigo": "0ad52b18da81",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_b05-j.json",
+            "codigo": "7c6620dbc282",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_b06-j.json",
+            "codigo": "00a14a961a54",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_base1.json",
+            "codigo": "e2f450e8c3dc",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_base2.json",
+            "codigo": "4a717e9674c0",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_base3.json",
+            "codigo": "92fb9c8d0f6e",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_base4.json",
+            "codigo": "d859a12e285c",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_base5.json",
+            "codigo": "9c4b3c349f64",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_base6.json",
+            "codigo": "fc7cf3799908",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_basep.json",
+            "codigo": "9816b1c43678",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_bex-j.json",
+            "codigo": "4ba58590174c",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_bp.json",
+            "codigo": "3080368870a7",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_bw1.json",
+            "codigo": "3db316b9611a",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_bw10.json",
+            "codigo": "d73ba642299e",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_bw11.json",
+            "codigo": "feec29c363e5",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_bw11pt5.json",
+            "codigo": "70e8ba4b2df3",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_bw1b-j.json",
+            "codigo": "1fa91db26c0e",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_bw1w-j.json",
+            "codigo": "bbc446a92500",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_bw2-j.json",
+            "codigo": "1e3bf283936f",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_bw2.json",
+            "codigo": "6145171fb093",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_bw3.json",
+            "codigo": "20715e02e319",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_bw3a-j.json",
+            "codigo": "a1a7415d6c3f",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_bw3b-j.json",
+            "codigo": "c5e6b54a586f",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_bw4-j.json",
+            "codigo": "95d45fe2e161",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_bw4.json",
+            "codigo": "ef461f83273e",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_bw5.json",
+            "codigo": "f326e4808728",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_bw5d-j.json",
+            "codigo": "3badd9e6601d",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_bw5s-j.json",
+            "codigo": "edf321aacd3c",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_bw6.json",
+            "codigo": "8fbe67dda49c",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_bw6c-j.json",
+            "codigo": "930f0144a415",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_bw6f-j.json",
+            "codigo": "912f21afbcfd",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_bw7-j.json",
+            "codigo": "ad06f7276a0d",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_bw7.json",
+            "codigo": "618562059bc8",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_bw8-j.json",
+            "codigo": "c7a524aab25e",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_bw8.json",
+            "codigo": "bc21599fc5f4",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_bw9-j.json",
+            "codigo": "4ee0aa0879b5",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_bw9.json",
+            "codigo": "b29d71902562",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_bwa-j.json",
+            "codigo": "6d33b88430d8",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_bwaa-j.json",
+            "codigo": "bfbe701972cc",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_bwab-j.json",
+            "codigo": "b1b07f79e0c2",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_bwac-j.json",
+            "codigo": "17a5611fbd36",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_bwe-j.json",
+            "codigo": "fc880d8b1db9",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_bwf-j.json",
+            "codigo": "32132b365280",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_bwg-j.json",
+            "codigo": "4f396c14630a",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_bwh-j.json",
+            "codigo": "0d183d2c6ee2",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_bwj-j.json",
+            "codigo": "85789d17dd5f",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_bwk-j.json",
+            "codigo": "d232d2bd8ce3",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_bwl-j.json",
+            "codigo": "e35fd72e3cbb",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_bwn-j.json",
+            "codigo": "a18607278512",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_bwo-j.json",
+            "codigo": "d03062b5e438",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_bwo2-j.json",
+            "codigo": "f091699498a4",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_bwp-j.json",
+            "codigo": "14fab10f2a33",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_bwp.json",
+            "codigo": "1f0a7690243b",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_bwq-j.json",
+            "codigo": "8e1b5a15cd3a",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_bwr-j.json",
+            "codigo": "be9c844eb78d",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_bws-j.json",
+            "codigo": "c22204b41e8d",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_bwt-j.json",
+            "codigo": "8e53e6163990",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_bwu-j.json",
+            "codigo": "4938cea01b00",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_bwv-j.json",
+            "codigo": "a51160794bea",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_bwx-j.json",
+            "codigo": "a8f86035eb06",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_bwy-j.json",
+            "codigo": "e381afebb7b4",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_bwz-j.json",
+            "codigo": "8d304a6a7143",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_cbs-j.json",
+            "codigo": "523b166a6744",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_cel25.json",
+            "codigo": "8ba0263e1913",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_cel25c.json",
+            "codigo": "888f9a8b8730",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_CGD-G-j.json",
+            "codigo": "7ed457517218",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_CGD-H-j.json",
+            "codigo": "468b7348cf2d",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_CGD-j.json",
+            "codigo": "c23204c70bb3",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_CGD-K-j.json",
+            "codigo": "21cf3932522d",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_CGD-N-j.json",
+            "codigo": "cfe1998955e0",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_CGD-T-j.json",
+            "codigo": "e3ad87d646cf",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_CGD-Y-j.json",
+            "codigo": "4b43a3479388",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_CLF-j.json",
+            "codigo": "edf6efc3dce7",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_CLK-j.json",
+            "codigo": "25a908ea7d84",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_CLL-j.json",
+            "codigo": "e9da2ed79478",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_col1.json",
+            "codigo": "dcca1bd40d76",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_col2.json",
+            "codigo": "68e89031ad28",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_cp1-j.json",
+            "codigo": "ef5aa4ec362d",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_cp2-j.json",
+            "codigo": "cff2f9672654",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_cp3-j.json",
+            "codigo": "5a1941ceb6b4",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_cp4-j.json",
+            "codigo": "ca7dba9b360b",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_cp5-j.json",
+            "codigo": "1fcd3e230ddd",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_cp6-j.json",
+            "codigo": "56c2cfc69042",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_dc1.json",
+            "codigo": "7ecbe5880239",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_det1.json",
+            "codigo": "17cd4da313c8",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_dp1-j.json",
+            "codigo": "fa5ee49c3599",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_dp1.json",
+            "codigo": "ef40ce572067",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_dp2-j.json",
+            "codigo": "f12d755c39cf",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_dp2.json",
+            "codigo": "5170d286e866",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_dp3-j.json",
+            "codigo": "83b0f845e3a1",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_dp3.json",
+            "codigo": "cce0cce632ce",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_dp4-j.json",
+            "codigo": "bfd82fb54fa1",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_dp4.json",
+            "codigo": "c1c1d99beb80",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_dp5-j.json",
+            "codigo": "5514dd67886f",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_dp5.json",
+            "codigo": "d0b4ae1541da",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_dp6-j.json",
+            "codigo": "d37420ef1856",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_dp6.json",
+            "codigo": "fb9217e012bb",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_dp7-j.json",
+            "codigo": "4bd517ff6c34",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_dp7.json",
+            "codigo": "224dc06f7671",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_dp8-j.json",
+            "codigo": "2b3597e03fd7",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_dpp-j.json",
+            "codigo": "05b662600a15",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_dpp.json",
+            "codigo": "93fe1b07d856",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_ds-j.json",
+            "codigo": "b5f9ffbe9f1b",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_dv1.json",
+            "codigo": "1b4f915f91ae",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_ecard1.json",
+            "codigo": "cc6dca8052aa",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_ecard2.json",
+            "codigo": "88ed5c96f80f",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_ecard3.json",
+            "codigo": "2cf5a3f60b0d",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_en19.json",
+            "codigo": "7d84939b2b3d",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_ex1.json",
+            "codigo": "5ccd79a2f6b3",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_ex10.json",
+            "codigo": "a6c446b48edd",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_ex11.json",
+            "codigo": "6bf531145b15",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_ex12.json",
+            "codigo": "589a7727423d",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_ex13.json",
+            "codigo": "b3206d480b23",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_ex14.json",
+            "codigo": "980bb8653c08",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_ex15.json",
+            "codigo": "3849cb13a71b",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_ex16.json",
+            "codigo": "df7fc9465b19",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_ex2.json",
+            "codigo": "8f1a5a13f23f",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_ex3.json",
+            "codigo": "f1b06c57ff87",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_ex4.json",
+            "codigo": "0cf50cb65436",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_ex5.json",
+            "codigo": "4f1aa8b4f6fd",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_ex6.json",
+            "codigo": "9446a382b70b",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_ex7.json",
+            "codigo": "b2c420da746a",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_ex8.json",
+            "codigo": "d14be57e9677",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_ex9.json",
+            "codigo": "561e3ff5c527",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_exp-j.json",
+            "codigo": "a855d185c25f",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_fll-j.json",
+            "codigo": "915a094148f3",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_fut20.json",
+            "codigo": "844d88ed2636",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_g1.json",
+            "codigo": "cbeecca2ac7e",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_g2.json",
+            "codigo": "bd3ff4f800c9",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_gsso-j.json",
+            "codigo": "aaf101e86cd4",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_gym1.json",
+            "codigo": "b650de16c810",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_gym2.json",
+            "codigo": "c6eacf474880",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_HC22.json",
+            "codigo": "4f1874493a65",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_HC23.json",
+            "codigo": "f86b03793667",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_HC24.json",
+            "codigo": "7bb2fda72de9",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_hgss1.json",
+            "codigo": "9a248928f77c",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_hgss2.json",
+            "codigo": "02623e7d9d4f",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_hgss3.json",
+            "codigo": "2121af6229fd",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_hgss4.json",
+            "codigo": "3d8b1f81731d",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_hop-j.json",
+            "codigo": "07f8d3f1d7e4",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_hrt-j.json",
+            "codigo": "3f1953a8247a",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_hrtf-j.json",
+            "codigo": "2715d07f79f8",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_hsp.json",
+            "codigo": "6dfd881f67c0",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_hxy-j.json",
+            "codigo": "d6e86d2a2b40",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_ipb-j.json",
+            "codigo": "414c81f03fc6",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_ipc-j.json",
+            "codigo": "e1ab32404b77",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_ips-j.json",
+            "codigo": "df66296b3823",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_ipt-j.json",
+            "codigo": "8ca0db1db033",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_J-p-j.json",
+            "codigo": "5206de6bf98d",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_l1hg-j.json",
+            "codigo": "a0e5cb833988",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_l1ss-j.json",
+            "codigo": "81579725b496",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_l2-j.json",
+            "codigo": "8b257c1d2519",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_l3-j.json",
+            "codigo": "2d5fa6f052f7",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_la-j.json",
+            "codigo": "655fc8a14725",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_lb-j.json",
+            "codigo": "3e0b24336325",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_lc-j.json",
+            "codigo": "d1319b465fcb",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_ld-j.json",
+            "codigo": "39094d0cbd66",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_LEGEND2-S-S-j.json",
+            "codigo": "50cfdbb7c59f",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_legp-j.json",
+            "codigo": "b6769c9ec5d8",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_ll-j.json",
+            "codigo": "3e269158e5dc",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_LVM-L-j.json",
+            "codigo": "af698d5ede48",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_M1L-j.json",
+            "codigo": "a0d19ff5e925",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_M1S-j.json",
+            "codigo": "d00245ed8a7e",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_M2-j.json",
+            "codigo": "7f74c59f76f8",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_MA-j.json",
+            "codigo": "f2af7093505c",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_mcd11.json",
+            "codigo": "162530691545",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_mcd12.json",
+            "codigo": "3dd269117b67",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_mcd14.json",
+            "codigo": "9a21047330ec",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_mcd15.json",
+            "codigo": "1b9e60be2ab2",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_mcd16.json",
+            "codigo": "debfecc2e107",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_mcd17.json",
+            "codigo": "b5328d314100",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_mcd18.json",
+            "codigo": "6c191582d1cf",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_mcd19.json",
+            "codigo": "b58150e9b8bd",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_mcd21.json",
+            "codigo": "3175ca93a690",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_mcd22.json",
+            "codigo": "1ac9808a86fe",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_mcdpe-j.json",
+            "codigo": "f79bcb2e9d06",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_mcp-j.json",
+            "codigo": "784646b1fef3",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_me1.json",
+            "codigo": "a2d7c178aac9",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_me2.json",
+            "codigo": "5fdf5e850bb0",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_me2pt5.json",
+            "codigo": "974f2f9da10d",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_mep.json",
+            "codigo": "3b9ed9894e57",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_mic-j.json",
+            "codigo": "bb41a542074a",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_mid-j.json",
+            "codigo": "047b9a7e9ef7",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_mif-j.json",
+            "codigo": "35253a9a310d",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_MP-j.json",
+            "codigo": "7ec9d6953475",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_MPS-j.json",
+            "codigo": "3c6dde6b9d22",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_MPS08-j.json",
+            "codigo": "20bf13dc36fc",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_MsD-j.json",
+            "codigo": "a671a5abb00e",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_mva-j.json",
+            "codigo": "74a8343a3700",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_mym-j.json",
+            "codigo": "089f9cd19d24",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_neo1-j.json",
+            "codigo": "ec1ac10eb66e",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_neo1.json",
+            "codigo": "0a29743d17b7",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_neo2-j.json",
+            "codigo": "852d63c599f1",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_neo2.json",
+            "codigo": "b6f53cb7292c",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_neo3-j.json",
+            "codigo": "57eeaede798a",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_neo3.json",
+            "codigo": "b512fca1d424",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_neo4-j.json",
+            "codigo": "2c386f76cfa3",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_neo4.json",
+            "codigo": "32e4e97a8a6b",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_np.json",
+            "codigo": "93e94f92a788",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_npf1-j.json",
+            "codigo": "5ce424d89586",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_npf2-j.json",
+            "codigo": "8c28c7969cc4",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_npf3-j.json",
+            "codigo": "77f798111ecb",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_odfe-j.json",
+            "codigo": "2d6be4a12bff",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_PCG3-S-B-j.json",
+            "codigo": "db4de9e195de",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_PCG5-S-j.json",
+            "codigo": "46a7ac079705",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_pcgp-j.json",
+            "codigo": "e74a5f5d9475",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_pgo.json",
+            "codigo": "b2d8319636cc",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_pl1.json",
+            "codigo": "a3ea2f9734ab",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_pl2.json",
+            "codigo": "228f6b6eae53",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_pl3.json",
+            "codigo": "753b3dff5193",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_pl4.json",
+            "codigo": "e0da70566f71",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_playp-j.json",
+            "codigo": "5e249475aca4",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_plp-j.json",
+            "codigo": "4ceebf243cd3",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_pop1.json",
+            "codigo": "3a260b9be6b6",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_pop2.json",
+            "codigo": "d219803b8072",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_pop3.json",
+            "codigo": "025dba47c4b9",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_pop4.json",
+            "codigo": "35a149f206d2",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_pop5.json",
+            "codigo": "2e49c48ffad9",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_pop6.json",
+            "codigo": "977b4cd4ba35",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_pop7.json",
+            "codigo": "b41cd6ca8aad",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_pop8.json",
+            "codigo": "9fbf77640c4e",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_pop9.json",
+            "codigo": "c3caeff3c92c",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_ppb-j.json",
+            "codigo": "bd2235e095f4",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_ppf-j.json",
+            "codigo": "812915d2d05e",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_pppp-j.json",
+            "codigo": "047f4a4a8251",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_PPPS1.json",
+            "codigo": "946358f479f7",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_PPPS2.json",
+            "codigo": "fd8517ecb183",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_PPPS3.json",
+            "codigo": "b8f2c603dd0b",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_PPPS4.json",
+            "codigo": "38de25bd2e9a",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_PPPS5.json",
+            "codigo": "009024d4c54b",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_PPPS6.json",
+            "codigo": "d5c73e3d304c",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_PPPS7.json",
+            "codigo": "2920018c942e",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_ppr-j.json",
+            "codigo": "a0ee80c65b5f",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_PSM-j.json",
+            "codigo": "2a820643ac0c",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_pt1-j.json",
+            "codigo": "e691794b453e",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_pt2-j.json",
+            "codigo": "37835382fb54",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_pt3-j.json",
+            "codigo": "8692a9a813a6",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_pt4-j.json",
+            "codigo": "2cb6f76d884e",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_pta-j.json",
+            "codigo": "68319942db0d",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_ptb-j.json",
+            "codigo": "15eda82c27c8",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_ptc-j.json",
+            "codigo": "5648d92ad91f",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_ptd-j.json",
+            "codigo": "b46f705087f6",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_pte-j.json",
+            "codigo": "d291d570fd0d",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_ptf-j.json",
+            "codigo": "4a6283d3905c",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_ptg-j.json",
+            "codigo": "a6420d5cec6c",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_qcp-f-j.json",
+            "codigo": "b106b3490e41",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_qcp-g-j.json",
+            "codigo": "59e517ceca54",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_qcp-l-j.json",
+            "codigo": "04b983239952",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_qcp-p-j.json",
+            "codigo": "023afb8470d6",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_qcp-r-j.json",
+            "codigo": "7dba439c1203",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_qcp-w-j.json",
+            "codigo": "c9e3b8bf7117",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_rgsb-j.json",
+            "codigo": "940549b3cf71",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_rsv10pt5.json",
+            "codigo": "a2cbaaad66bf",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_ru1.json",
+            "codigo": "7ae72c841949",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_ruh-j.json",
+            "codigo": "b3b6b40c9a6a",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_s10a-j.json",
+            "codigo": "29c6ddd143a7",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_s10b-j.json",
+            "codigo": "abe81b8b6e37",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_s10D-j.json",
+            "codigo": "9a13e062f1b0",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_s10P-j.json",
+            "codigo": "6dd5e59f420f",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_s11-j.json",
+            "codigo": "360c4aaa48c6",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_s11a-j.json",
+            "codigo": "608be55e03ec",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_s12-j.json",
+            "codigo": "f9180ce5f6a7",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_s12a-j.json",
+            "codigo": "426f2e4fa011",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_s1a-j.json",
+            "codigo": "f8f06e74b10a",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_s1h-j.json",
+            "codigo": "f5871661e3b5",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_s1w-j.json",
+            "codigo": "6495c6865782",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_s2-j.json",
+            "codigo": "7c0f356b7493",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_s2a-j.json",
+            "codigo": "484c0415fca1",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_s3-j.json",
+            "codigo": "0a0e1fb1e5df",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_s3a-j.json",
+            "codigo": "a8476507e2e7",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_s4-j.json",
+            "codigo": "c6e6bc7bec41",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_s4a-j.json",
+            "codigo": "0027652def6d",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_s5a-j.json",
+            "codigo": "35445de45877",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_s5i-j.json",
+            "codigo": "977720d2662e",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_s5r-j.json",
+            "codigo": "224d11897403",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_s6a-j.json",
+            "codigo": "4ee8e65f5bf3",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_s6h-j.json",
+            "codigo": "d65ed8ca186e",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_s6k-j.json",
+            "codigo": "21b2abc5557a",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_s7d-j.json",
+            "codigo": "7edd1f3edc87",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_s7r-j.json",
+            "codigo": "b677293db9b8",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_s8-j.json",
+            "codigo": "09b613ab8e53",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_s8a-B-j.json",
+            "codigo": "32ebe523e8df",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_s8a-j.json",
+            "codigo": "36d4bde1f31f",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_s8a-P-j.json",
+            "codigo": "81841c0f6eee",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_s8b-j.json",
+            "codigo": "0e0a8e5210ee",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_s9-j.json",
+            "codigo": "f79a17fe9d85",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_s9a-j.json",
+            "codigo": "ec57e1f9a0b5",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_saf-j.json",
+            "codigo": "4c3dd45ff825",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sag-j.json",
+            "codigo": "d804639db42d",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sal-j.json",
+            "codigo": "d72c79f06af9",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sar-j.json",
+            "codigo": "50a48a3cfc37",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_saw-j.json",
+            "codigo": "ff1dcfc41e53",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sc2-j.json",
+            "codigo": "408708f2725a",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_scs-c-j.json",
+            "codigo": "021483e75c70",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_scs-g-j.json",
+            "codigo": "a97c22f36c50",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sd-j.json",
+            "codigo": "9ee2bd1962b3",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sef-j.json",
+            "codigo": "eabd15aaa75a",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sek-j.json",
+            "codigo": "300781c50da7",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sf-j.json",
+            "codigo": "8a68366f5f48",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sfp-j.json",
+            "codigo": "a06977baab22",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sI-j.json",
+            "codigo": "961fdb506f17",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_si1.json",
+            "codigo": "cf6e3fa142e7",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sis-j.json",
+            "codigo": "736fe7882323",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sJ-j.json",
+            "codigo": "4f26de18d609",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sK-j.json",
+            "codigo": "609c5dca737a",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sL-j.json",
+            "codigo": "69f0e3807004",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sLD-j.json",
+            "codigo": "f736beaa53e6",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sLL-j.json",
+            "codigo": "c39c2da51dd7",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sM-j.json",
+            "codigo": "adbf34b170d7",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sm0-j.json",
+            "codigo": "fef4ac882954",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sm1+-j.json",
+            "codigo": "7cdd0eb43d1a",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sm1.json",
+            "codigo": "305d2bc5d4a9",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sm10-j.json",
+            "codigo": "19a0fed7212a",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sm10.json",
+            "codigo": "ea15389df0e5",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sm10a-j.json",
+            "codigo": "c8c29535d3a9",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sm10b-j.json",
+            "codigo": "16629875f034",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sm11-j.json",
+            "codigo": "0ccb19b24a7e",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sm11.json",
+            "codigo": "9a8996dcecc2",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sm115.json",
+            "codigo": "9641428ed6c8",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sm11a-j.json",
+            "codigo": "bb95c17ea833",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sm11b-j.json",
+            "codigo": "2cef894ac159",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sm12-j.json",
+            "codigo": "7094c87055c9",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sm12.json",
+            "codigo": "1ced326f3b8e",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sm12a-j.json",
+            "codigo": "e788cb3811bb",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sm1m-j.json",
+            "codigo": "65ca038f27c3",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sm1s-j.json",
+            "codigo": "e967fad124bb",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sm2+-j.json",
+            "codigo": "52c437f4801b",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sm2.json",
+            "codigo": "59f8dc5de701",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sm2k-j.json",
+            "codigo": "c4c92d7af94d",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sm2l-j.json",
+            "codigo": "647d58a7c9eb",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sm3+-j.json",
+            "codigo": "7ff9356c54ad",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sm3.json",
+            "codigo": "4f33a7df1bc9",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sm35.json",
+            "codigo": "ce4125cf8fc2",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sm3h-j.json",
+            "codigo": "77d6b0d89f17",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sm3n-j.json",
+            "codigo": "0a3c88ec4877",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sm4+-j.json",
+            "codigo": "0ad817619fbb",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sm4.json",
+            "codigo": "79aaf56787f8",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sm4a-j.json",
+            "codigo": "eea154ca1ed6",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sm4s-j.json",
+            "codigo": "72f6cab023e0",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sm5+-j.json",
+            "codigo": "4151d3477431",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sm5.json",
+            "codigo": "f216b47629d5",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sm5m-j.json",
+            "codigo": "6b27bdeb929d",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sm5s-j.json",
+            "codigo": "772e9e0d4ee8",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sm6-j.json",
+            "codigo": "d11c822b8755",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sm6.json",
+            "codigo": "38f018ea49aa",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sm6a-j.json",
+            "codigo": "38bfee298883",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sm6b-j.json",
+            "codigo": "242513c14f4d",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sm7-j.json",
+            "codigo": "cb1714038d4e",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sm7.json",
+            "codigo": "0a5abd5ca3ed",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sm75.json",
+            "codigo": "a6f840b8ab47",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sm7a-j.json",
+            "codigo": "88a3816c137f",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sm7b-j.json",
+            "codigo": "0a3bb5223910",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sm8-j.json",
+            "codigo": "d40d4f8dc1cd",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sm8.json",
+            "codigo": "bd4414f9deb3",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sm8a-j.json",
+            "codigo": "06f20d82a5bb",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sm8b-j.json",
+            "codigo": "8c6e8dd9bea3",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sm9-j.json",
+            "codigo": "0005f5acd10c",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sm9.json",
+            "codigo": "29fc90b7ca0f",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sm9a-j.json",
+            "codigo": "5fa90999f016",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sm9b-j.json",
+            "codigo": "3e51e41a7648",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sma-j.json",
+            "codigo": "1a91533df903",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sma.json",
+            "codigo": "9a462c84db09",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_smb-j.json",
+            "codigo": "1db527681458",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_smc-j.json",
+            "codigo": "dd66a32b1f6b",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_smd-j.json",
+            "codigo": "6df8c475dce0",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sme-j.json",
+            "codigo": "e8f8af5bf4e8",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_smf-j.json",
+            "codigo": "9e9b0cea27a1",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_smg-j.json",
+            "codigo": "91d57ab4171d",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_smh-j.json",
+            "codigo": "a3aa3237b424",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_smi-j.json",
+            "codigo": "fa3a1bcbf77a",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_smj-j.json",
+            "codigo": "7e1336000217",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_smk-j.json",
+            "codigo": "a0a614712e8f",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sml-j.json",
+            "codigo": "0ec4a73435b2",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_smm-j.json",
+            "codigo": "bea99a2abff4",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_smn-j.json",
+            "codigo": "a87a70ae7080",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_smp-j.json",
+            "codigo": "0daa09c81e3f",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_smp.json",
+            "codigo": "6a08f4cfb2f7",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_smp1-j.json",
+            "codigo": "8abe223bb3f2",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_smp2-j.json",
+            "codigo": "b49e36f38e4e",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sN-j.json",
+            "codigo": "3b91a77c3eea",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_snpn-j.json",
+            "codigo": "736031c49624",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_snpr-j.json",
+            "codigo": "3ed696a5aa1f",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sO-j.json",
+            "codigo": "1050b573f04c",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sp1-j.json",
+            "codigo": "9c47c0c29e23",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sp2-j.json",
+            "codigo": "5080a91ab332",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sp3-j.json",
+            "codigo": "f50aca6677a3",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sp4-j.json",
+            "codigo": "c3e3d26d55ce",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sp5-j.json",
+            "codigo": "8882d7611979",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sp6-j.json",
+            "codigo": "405e53708856",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_spe-j.json",
+            "codigo": "7e4444ca819b",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_spt-j.json",
+            "codigo": "2a2d63d6c75d",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sv-p-j.json",
+            "codigo": "c3be3799a4e9",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sv1.json",
+            "codigo": "c6822e82d62b",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_SV10-j.json",
+            "codigo": "bf1be91f1f03",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sv10.json",
+            "codigo": "e0280adabcd1",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_SV11B-j.json",
+            "codigo": "5a77b9ba4c32",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_SV11W-j.json",
+            "codigo": "c48022915181",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sv1a-j.json",
+            "codigo": "585a84a8705f",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sv1s-j.json",
+            "codigo": "15fa1d64563c",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sv1v-j.json",
+            "codigo": "cb8a411451e1",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sv2.json",
+            "codigo": "b26c7162dd45",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sv2a-j.json",
+            "codigo": "8ba51aca8626",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sv2d-j.json",
+            "codigo": "25354d8572cf",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sv2p-j.json",
+            "codigo": "61af2e7f3545",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sv3-j.json",
+            "codigo": "ae1a5fc768b3",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sv3.json",
+            "codigo": "b6e67e1d95ac",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sv3a-j.json",
+            "codigo": "6f924083e2af",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sv3pt5.json",
+            "codigo": "843000e9493b",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sv4.json",
+            "codigo": "72bdf03048fd",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sv4a-j.json",
+            "codigo": "ee4c9370e70c",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sv4k-j.json",
+            "codigo": "8bdd8d20cebc",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sv4m-j.json",
+            "codigo": "e861f155b89f",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sv4pt5.json",
+            "codigo": "c46ea883505c",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sv5.json",
+            "codigo": "deab8d80982e",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_SV5a-j.json",
+            "codigo": "7afe28ba37af",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sv5k-j.json",
+            "codigo": "bdf428d203d2",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sv5m-j.json",
+            "codigo": "51459d85c261",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_SV6-j.json",
+            "codigo": "aa42b2a7af61",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sv6.json",
+            "codigo": "c20eafd131eb",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_SV6a-j.json",
+            "codigo": "cd7f51b0b93f",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sv6pt5.json",
+            "codigo": "48fff30c7c97",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_SV7-j.json",
+            "codigo": "6c8407dc4bfb",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sv7.json",
+            "codigo": "e74e49e5ec2f",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_SV7a-j.json",
+            "codigo": "9822d0181112",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_SV8-j.json",
+            "codigo": "8e3a5fff37b4",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sv8.json",
+            "codigo": "e54aeb256153",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_SV8a-j.json",
+            "codigo": "c95096239a06",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sv8pt5.json",
+            "codigo": "1d823a134bab",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_SV9-j.json",
+            "codigo": "d9b6be7685a1",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sv9.json",
+            "codigo": "8ef538614cc1",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_SV9A-j.json",
+            "codigo": "1135c9ae11b5",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_SVAL-j.json",
+            "codigo": "1d694de2b7f7",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_SVAM-j.json",
+            "codigo": "52eea8a57ae9",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_SVAW-j.json",
+            "codigo": "8dd297b88a43",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_SVB-j.json",
+            "codigo": "3e5edae54b98",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_svc-j.json",
+            "codigo": "23612b09ea39",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_svd-j.json",
+            "codigo": "fbf2d129be85",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_sve.json",
+            "codigo": "8839a437b645",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_svel-j.json",
+            "codigo": "a6f1f83dc341",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_svem-j.json",
+            "codigo": "e4e442812057",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_svf-j.json",
+            "codigo": "c73bf1946908",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_svg-j.json",
+            "codigo": "d514d4cb9af1",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_svhk-j.json",
+            "codigo": "7f462bb0a9f6",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_svhm-j.json",
+            "codigo": "e3699f03e741",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_SVK-j.json",
+            "codigo": "e5c771ae5933",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_SVLN-j.json",
+            "codigo": "57e83050a361",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_svls-j.json",
+            "codigo": "6ee0fe97d744",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_SVM-j.json",
+            "codigo": "1839ca4435dd",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_svmg2-j.json",
+            "codigo": "1cfe07082d35",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_svmi-j.json",
+            "codigo": "3c12d3e313e1",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_SVOD-j.json",
+            "codigo": "d7eb262381bb",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_SVOM-j.json",
+            "codigo": "4ced50cde35a",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_svp.json",
+            "codigo": "73647e90a2b1",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_svp1-j.json",
+            "codigo": "5b042ca47c8d",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_swsh1.json",
+            "codigo": "f447b3c1ce72",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_swsh10.json",
+            "codigo": "a92215975151",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_swsh10tg.json",
+            "codigo": "60523cfda452",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_swsh11.json",
+            "codigo": "ea5c7b02102c",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_swsh11tg.json",
+            "codigo": "4472ae1ffe96",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_swsh12.json",
+            "codigo": "d1bab2010c44",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_swsh12pt5.json",
+            "codigo": "d18cb1d48749",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_swsh12pt5gg.json",
+            "codigo": "9412259fd011",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_swsh12tg.json",
+            "codigo": "babbe1ba7aeb",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_swsh2.json",
+            "codigo": "f138219504a0",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_swsh3.json",
+            "codigo": "444e9d763f47",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_swsh35.json",
+            "codigo": "65f8c261c7fc",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_swsh4.json",
+            "codigo": "d13c98826a84",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_swsh45.json",
+            "codigo": "1589eca1e375",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_swsh45sv.json",
+            "codigo": "ec81c1fc6626",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_swsh5.json",
+            "codigo": "c89d4d651f9a",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_swsh6.json",
+            "codigo": "52288cb2a56f",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_swsh7.json",
+            "codigo": "982a62d18fc6",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_swsh8.json",
+            "codigo": "2d8eb6526697",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_swsh9.json",
+            "codigo": "8e57f242ce05",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_swsh9tg.json",
+            "codigo": "a78abb4613ec",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_swshp-j.json",
+            "codigo": "687375b0b20e",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_swshp.json",
+            "codigo": "63ef85fbcb87",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_T-p-j.json",
+            "codigo": "c63dedc5bdc2",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_tk-xy-b.json",
+            "codigo": "a192126c5726",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_tk-xy-w.json",
+            "codigo": "e803d9c62173",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_tk10a.json",
+            "codigo": "21f6f0ec8f35",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_tk10b.json",
+            "codigo": "b4a0c66bd821",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_tk1a.json",
+            "codigo": "1ce21eb76d86",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_tk1b.json",
+            "codigo": "5f2c8d8e48dd",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_tk2a.json",
+            "codigo": "72226544bf5e",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_tk2b.json",
+            "codigo": "757bc80f4e70",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_tk6a.json",
+            "codigo": "6bb542c8f354",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_tk6b.json",
+            "codigo": "7c94c9cd4849",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_tk8b.json",
+            "codigo": "0770c0de6884",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_tk9a.json",
+            "codigo": "a5fe53d55132",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_tk9b.json",
+            "codigo": "f7af144884c1",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_tmp-j.json",
+            "codigo": "1d5cde7725b8",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_TOT22.json",
+            "codigo": "0741a9e4449e",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_TOT23.json",
+            "codigo": "4b1045732c2a",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_TOT24.json",
+            "codigo": "e23df904a9e4",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_unp-j.json",
+            "codigo": "478a4e61233f",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_uns-j.json",
+            "codigo": "cfd063c32a0e",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_vm1-j.json",
+            "codigo": "83ade955d230",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_vm3-j.json",
+            "codigo": "94e54e833518",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_vs-j.json",
+            "codigo": "65eaa7659a3b",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_VSDeoxys-j.json",
+            "codigo": "9e49c792831b",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_wcp-j.json",
+            "codigo": "a04bef8bef25",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_wcs23-j.json",
+            "codigo": "0250c191ba10",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_web-j.json",
+            "codigo": "49b47e2d0a75",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_wfs-j.json",
+            "codigo": "9037b986f039",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_xy-j.json",
+            "codigo": "bf5b5420e474",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_xy0.json",
+            "codigo": "28e3d910085d",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_xy1.json",
+            "codigo": "90c8750360e0",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_xy10.json",
+            "codigo": "847c6fca2173",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_xy10a-j.json",
+            "codigo": "174d0c3cc615",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_xy11.json",
+            "codigo": "8bcbd69e4f4e",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_xy11c-j.json",
+            "codigo": "e635d3211bb0",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_xy11f-j.json",
+            "codigo": "08aaf3e2afb8",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_xy12.json",
+            "codigo": "bb2ec4f6e732",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_xy1x-j.json",
+            "codigo": "65af5cc00755",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_xy1y-j.json",
+            "codigo": "3eebc0320020",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_xy2.json",
+            "codigo": "7234afb1b2e9",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_xy2w-j.json",
+            "codigo": "27607361650e",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_xy3.json",
+            "codigo": "8fa75d7f70ee",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_xy30x-j.json",
+            "codigo": "62f52c3ec548",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_xy30y-j.json",
+            "codigo": "99624bc6b524",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_xy3r-j.json",
+            "codigo": "b6eb08d110cc",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_xy4.json",
+            "codigo": "d1d7287badc4",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_xy4p-j.json",
+            "codigo": "69fcc91fd03b",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_xy5.json",
+            "codigo": "7e1a3092877c",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_xy5g-j.json",
+            "codigo": "56652c843171",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_xy5t-j.json",
+            "codigo": "23eae0676421",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_xy6.json",
+            "codigo": "ba0454b9fbdb",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_xy6e-j.json",
+            "codigo": "a118bb627e70",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_xy7.json",
+            "codigo": "d986cf43cca6",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_xy7b-j.json",
+            "codigo": "d400b0ad2f22",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_xy8.json",
+            "codigo": "11eb7c765cfa",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_xy8b-j.json",
+            "codigo": "00a980496b41",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_xy8r-j.json",
+            "codigo": "1b4e7af56e17",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_xy9.json",
+            "codigo": "b7fe01e1a7f0",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_xy9r-j.json",
+            "codigo": "7b68807f591a",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_xya-j.json",
+            "codigo": "1a84ca5b3f68",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_xyb-j.json",
+            "codigo": "b016c3222c28",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_xybsp-j.json",
+            "codigo": "beae842971de",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_xyc-j.json",
+            "codigo": "9c55ff35fe26",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_xyd-j.json",
+            "codigo": "814dab12dd18",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_xye-j.json",
+            "codigo": "a39412d6d32f",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_xyf-j.json",
+            "codigo": "aa37bb8df127",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_xyg-j.json",
+            "codigo": "b0b5ebef41bb",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_xyh-j.json",
+            "codigo": "3b3041497a29",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_xyp-j.json",
+            "codigo": "f629bec6ffc7",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_xyp.json",
+            "codigo": "597c45e7db44",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_xyps-j.json",
+            "codigo": "0583cbb7f4bc",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_xyss-j.json",
+            "codigo": "d089fe3fb0b2",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "pokemon_cards_zsv10pt5.json",
+            "codigo": "6d11f33b2040",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "rarities.json",
+            "codigo": "9da208cde7a9",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "regions.json",
+            "codigo": "3b3d3306af39",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "series.json",
+            "codigo": "5d4d6aa25a66",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "sleeves.json",
+            "codigo": "1b26cdf8bb26",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "sleeves_colecoes.json",
+            "codigo": "24f4152b1409",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "subtypes.json",
+            "codigo": "10e665e474cb",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "subtype_associations.json",
+            "codigo": "7817fce14763",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "supertypes.json",
+            "codigo": "2484bf5620c0",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "tags.json",
+            "codigo": "63f9467aad65",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "types.json",
+            "codigo": "0fa5a5254c0a",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        },
+        {
+            "nome": "types_associations.json",
+            "codigo": "8b2539efe81c",
+            "ultimo_update": "2026-02-17T01:23:20.529021+00:00"
+        }
+    ]
+}
