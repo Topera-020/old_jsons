@@ -1,11 +1,7 @@
 {
     "last_version_available": "1.2.6",
-    "oldest_version_compatible": [
-        "1.2.5"
-    ],
-    "update_url": [
-        "https://play.google.com/store/apps/details?id=com.thales.pokelens&pli=1"
-    ],
+    "oldest_version_compatible": "1.2.5",
+    "update_url": "https://play.google.com/store/apps/details?id=com.thales.pokelens&pli=1",
     "timestamp": "2026-02-17T01:23:20.529021+00:00",
     "files": [
         {
