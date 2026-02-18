@@ -2,7 +2,7 @@
     "last_version_available": "1.2.6",
     "oldest_version_compatible": "1.2.5",
     "update_url": "https://play.google.com/store/apps/details?id=com.thales.pokelens&pli=1",
-    "timestamp": "2026-02-18T04:24:03.168954+00:00",
+    "timestamp": "2026-02-18T04:25:03.168954+00:00",
     "files": [
         {
             "nome": "artists.json",
@@ -72,7 +72,7 @@
         {
             "nome": "pokedex_associations.json",
             "codigo": "1f32393663a2",
-            "timestamp": "2026-02-18T02:33:20.496435+00:00"
+            "timestamp": "2026-02-18T02:70:20.496435+00:00"
         },
         {
             "nome": "pokemon_cards_en_1.json",
