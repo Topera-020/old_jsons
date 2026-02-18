@@ -1,0 +1,64 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "default",
+            "nomePt": "Forma Padrão",
+            "image": ""
+        },
+        {
+            "id": 2,
+            "name": "mega",
+            "nomePt": "Mega evolução",
+            "image": ""
+        },
+        {
+            "id": 3,
+            "name": "regional",
+            "nomePt": "Forma Regional",
+            "image": ""
+        },
+        {
+            "id": 4,
+            "name": "battle",
+            "nomePt": "Disponível apenas em Batalha",
+            "image": ""
+        },
+        {
+            "id": 5,
+            "name": "baby",
+            "nomePt": "Bebê",
+            "image": ""
+        },
+        {
+            "id": 6,
+            "name": "mythical",
+            "nomePt": "Mítico",
+            "image": ""
+        },
+        {
+            "id": 7,
+            "name": "legendary",
+            "nomePt": "Lendário",
+            "image": ""
+        },
+        {
+            "id": 8,
+            "name": "starter",
+            "nomePt": "Inicial",
+            "image": ""
+        },
+        {
+            "id": 9,
+            "name": "gender",
+            "nomePt": "Gênero",
+            "image": ""
+        },
+        {
+            "id": 10,
+            "name": "eeveelution",
+            "nomePt": "Eeveelution",
+            "image": ""
+        }
+    ]
+}
