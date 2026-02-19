@@ -2,17 +2,77 @@
     "last_version_available": "1.2.6",
     "oldest_version_compatible": "1.2.5",
     "update_url": "https://play.google.com/store/apps/details?id=com.thales.pokelens&pli=1",
-    "timestamp": "2026-02-18T04:25:03.168954+00:00",
+    "timestamp": "2026-02-19T05:02:28.829683+00:00",
     "files": [
+        {
+            "nome": "regions.json",
+            "codigo": "3b3d3306af39",
+            "timestamp": "2026-02-18T02:33:20.496435+00:00"
+        },
+        {
+            "nome": "series.json",
+            "codigo": "5d4d6aa25a66",
+            "timestamp": "2026-02-18T02:33:20.496435+00:00"
+        },
+        {
+            "nome": "collections.json",
+            "codigo": "953a3369e627",
+            "timestamp": "2026-02-19T05:02:28.829683+00:00"
+        },
+        {
+            "nome": "rarities.json",
+            "codigo": "9da208cde7a9",
+            "timestamp": "2026-02-18T02:33:20.496435+00:00"
+        },
+        {
+            "nome": "supertypes.json",
+            "codigo": "2484bf5620c0",
+            "timestamp": "2026-02-18T02:33:20.496435+00:00"
+        },
         {
             "nome": "artists.json",
             "codigo": "dcd118f1ccf3",
             "timestamp": "2026-02-18T02:50:20.496435+00:00"
         },
         {
-            "nome": "collections.json",
-            "codigo": "f2f36d41cd6e",
+            "nome": "pk_types.json",
+            "codigo": "11859d3b1383",
             "timestamp": "2026-02-18T02:33:20.496435+00:00"
+        },
+        {
+            "nome": "pk_grupos.json",
+            "codigo": "6a3edd7b6812",
+            "timestamp": "2026-02-18T04:24:03.168954+00:00"
+        },
+        {
+            "nome": "pokedex.json",
+            "codigo": "2af35de3ee28",
+            "timestamp": "2026-02-18T04:24:03.168954+00:00"
+        },
+        {
+            "nome": "pk_types_associations.json",
+            "codigo": "97d075161f71",
+            "timestamp": "2026-02-18T02:33:20.496435+00:00"
+        },
+        {
+            "nome": "pk_grupos_associations.json",
+            "codigo": "75a28b757855",
+            "timestamp": "2026-02-18T04:24:03.168954+00:00"
+        },
+        {
+            "nome": "pokedex_associations.json",
+            "codigo": "1f32393663a2",
+            "timestamp": "2026-02-18T02:70:20.496435+00:00"
+        },
+        {
+            "nome": "types_associations.json",
+            "codigo": "8b2539efe81c",
+            "timestamp": "2026-02-18T02:33:20.496435+00:00"
+        },
+        {
+            "nome": "precos_myp.json",
+            "codigo": "bce7551ccddc",
+            "timestamp": "2026-02-19T05:02:28.829683+00:00"
         },
         {
             "nome": "evolutions.json",
@@ -43,36 +103,6 @@
             "nome": "moeda_tamanho.json",
             "codigo": "a7f64432f9a3",
             "timestamp": "2026-02-18T02:33:20.496435+00:00"
-        },
-        {
-            "nome": "pk_grupos.json",
-            "codigo": "6a3edd7b6812",
-            "timestamp": "2026-02-18T04:24:03.168954+00:00"
-        },
-        {
-            "nome": "pk_grupos_associations.json",
-            "codigo": "75a28b757855",
-            "timestamp": "2026-02-18T04:24:03.168954+00:00"
-        },
-        {
-            "nome": "pk_types.json",
-            "codigo": "11859d3b1383",
-            "timestamp": "2026-02-18T02:33:20.496435+00:00"
-        },
-        {
-            "nome": "pk_types_associations.json",
-            "codigo": "97d075161f71",
-            "timestamp": "2026-02-18T02:33:20.496435+00:00"
-        },
-        {
-            "nome": "pokedex.json",
-            "codigo": "2af35de3ee28",
-            "timestamp": "2026-02-18T04:24:03.168954+00:00"
-        },
-        {
-            "nome": "pokedex_associations.json",
-            "codigo": "1f32393663a2",
-            "timestamp": "2026-02-18T02:70:20.496435+00:00"
         },
         {
             "nome": "pokemon_cards_en_1.json",
@@ -240,21 +270,6 @@
             "timestamp": "2026-02-18T02:33:20.496435+00:00"
         },
         {
-            "nome": "rarities.json",
-            "codigo": "9da208cde7a9",
-            "timestamp": "2026-02-18T02:33:20.496435+00:00"
-        },
-        {
-            "nome": "regions.json",
-            "codigo": "3b3d3306af39",
-            "timestamp": "2026-02-18T02:33:20.496435+00:00"
-        },
-        {
-            "nome": "series.json",
-            "codigo": "5d4d6aa25a66",
-            "timestamp": "2026-02-18T02:33:20.496435+00:00"
-        },
-        {
             "nome": "sleeves.json",
             "codigo": "1b26cdf8bb26",
             "timestamp": "2026-02-18T02:33:20.496435+00:00"
@@ -275,11 +290,6 @@
             "timestamp": "2026-02-18T02:33:20.496435+00:00"
         },
         {
-            "nome": "supertypes.json",
-            "codigo": "2484bf5620c0",
-            "timestamp": "2026-02-18T02:33:20.496435+00:00"
-        },
-        {
             "nome": "tags.json",
             "codigo": "63f9467aad65",
             "timestamp": "2026-02-18T02:33:20.496435+00:00"
@@ -287,11 +297,6 @@
         {
             "nome": "types.json",
             "codigo": "0fa5a5254c0a",
-            "timestamp": "2026-02-18T02:33:20.496435+00:00"
-        },
-        {
-            "nome": "types_associations.json",
-            "codigo": "8b2539efe81c",
             "timestamp": "2026-02-18T02:33:20.496435+00:00"
         }
     ]
